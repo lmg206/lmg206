@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Gary_infographic.pdf
+
+![More info](lmg206/Gary_infographic.pdf?raw=true "Title")
+
+
 <!--
 **lmg206/lmg206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Gary_infographic.pdf
-
-![More info](.Gary_infographic.pdf)
