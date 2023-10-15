@@ -2,7 +2,7 @@
 
 Gary_infographic.pdf
 
-![More info](lmg206/Gary_infographic.pdf?raw=true "Title")
+![More info](lmg206/lmg206/Gary_infographic.pdf?raw=true "Title")
 
 
 <!--
