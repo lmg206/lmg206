@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-Gary_infographic.pdf
-
-![More info](lmg206/lmg206/Gary_infographic.pdf?raw=true "Title")
+[More Info](https://github.com/lmg206/lmg206/files/12908652/Gary_infographic.pdf)
 
 
 <!--
