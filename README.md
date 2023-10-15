@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Gary_infographic.pdf
+
+![More info](.Gary_infographic.pdf)
