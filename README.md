@@ -1,5 +1,9 @@
 ### Hi there 👋
-[More Info](https://github.com/lmg206/lmg206/files/12908652/Gary_infographic.pdf)
+I'm a recent CS graduate from Boston College, eager to apply my skills, knowledge, and passion across a spectrum of industries, particularly as a data analyst or software engineer. Here are some of my projects and some more information below:
+
+<img src="infographic.jpg" width="400" height="550">
+
+[PDF Infographic](https://github.com/lmg206/lmg206/files/12908652/Gary_infographic.pdf)
 
 
 <!--
